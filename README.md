@@ -1,4 +1,4 @@
-# Optimizing Bouldering
+# Data Analysis of Overhangs vs Slabs in Bouldering
 
 ## Table of Contents
 1. [What is Bouldering?](#what-is-bouldering)
