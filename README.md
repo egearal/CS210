@@ -30,6 +30,7 @@ Excel : Helps with Visualization of data
 Visual Studio Code (Juptyer Notebook) : Coding  
 pandas : Data manipulation  
 numpy : Mathematical purposes  
-matplotlib : Visualizations  
+matplotlib : Data Visualizations  
 scipy : Analyzatition of statistics
+seaborn : Data visualization
 
